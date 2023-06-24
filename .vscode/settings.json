@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "functions.h": "c",
+        "zip.h": "c",
+        "stdio.h": "c"
+    }
+}
