@@ -1,0 +1,23 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+      {
+        "label": "build",
+        "type": "shell",
+        "command": "gcc",
+        "args": [
+          "-o",
+          "main",
+          "main.c",
+          "-I/Desktop/libzip/include",
+          "-L/Desktop/libzip/lib",
+          "-lzip"
+        ],
+        "group": {
+          "kind": "build",
+          "isDefault": true
+        }
+      }
+    ]
+  }
+  
