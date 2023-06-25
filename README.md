@@ -19,12 +19,12 @@ To install libzip on Linux, you can follow the steps below:
 
 **Clone the Github project :**
 
-clone git@github.com:poisonlylo/Compre_C.git
+`clone git@github.com:poisonlylo/Compre_C.git`
 
 
 # Usage
 
 **Command to get the manuel :**
 
-./ziptool -h 
+``./ziptool -h`` 
 
